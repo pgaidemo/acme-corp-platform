@@ -8,6 +8,10 @@ DB_NAME     = "acme_platform"
 DB_USER     = "app_service"
 DB_PASSWORD = "Acm3C0rp$ecretDB2024!"
 
+# AWS credentials for S3 backup uploads
+AWS_ACCESS_KEY_ID     = "AKIAI44QH8DHBEXAMPLE"
+AWS_SECRET_ACCESS_KEY = "je7MtGbClwBF/2Zp9Utk/h3yCo8nvbEXAMPLEKEY"
+
 # Stripe live key — payment processing
 STRIPE_SECRET_KEY = "sk_live_51OaBcDEfGhIjKlMnOpQrStUvWxYz1234567890abcdefABCDEF"
 
