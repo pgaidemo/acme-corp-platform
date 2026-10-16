@@ -1,0 +1,6 @@
+id,name,email,ssn,credit_card,credit_card_type,phone,plan
+1001,James Whitfield,james.whitfield@acmecorp.com,532-10-4821,4532015112830366,Visa,+1-415-555-0172,Enterprise
+1002,Sandra Kowalski,s.kowalski@techventures.io,078-05-1120,5425233430109903,Mastercard,+1-212-555-0198,Pro
+1003,Marcus DeLeon,mdeleon@globallogix.com,409-52-2002,4916338506082832,Visa,+1-312-555-0143,Enterprise
+1004,Priya Nambiar,p.nambiar@brightline.co,301-77-9834,374251018720950,Amex,+1-617-555-0167,Pro
+1005,Tyler Okonkwo,t.okonkwo@fusionworks.net,220-48-6613,5105105105105100,Mastercard,+1-206-555-0189,Starter
